@@ -1,7 +1,1 @@
-# hello-world
-1st repository for gathering and  chats
- readme-edits
-saurabh has created a branch for now
-Saurabh Tripathi M.Tech software engineering
- master
-
+Hello There What You Are Looking For In Data Science And AI.
